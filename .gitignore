@@ -1,1 +1,7 @@
 /Intermediate
+/Saved
+/DerivedDataCache
+/.vs
+/Binaries
+*.sln
+/Content/StarterContent/
