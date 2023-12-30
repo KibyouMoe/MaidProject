@@ -5,3 +5,6 @@
 /Binaries
 *.sln
 /Content/StarterContent/
+/Server/env/
+/Server/output/
+/Server/Data/SuperCreek/custom_character_voice/
